@@ -95,11 +95,9 @@ C_miss * π_tar * P_miss(t)
 │   ├── SASV/
 ├── scores/
 ├── protocol/
-│   ├── ASVspoof2019_eval_protocol.txt
-│   ├── trial_metadata.csv
-│   └── (LA/PA split files)
+│   └── protocol.txt
 ├── notebooks/
-│   └── compute_AaDCF.ipynb
+│   └── experiment.ipynb
 ├── assets/
 │   └── overview.png
 └── README.md
