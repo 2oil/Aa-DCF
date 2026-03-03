@@ -148,7 +148,6 @@ https://github.com/sasv-challenge/SASV2_Baseline.git
 Pretrained weights:  
 https://drive.google.com/drive/folders/1NIOs21SOxLSFuO5gvVN7twWDghh357fS
 
----
 
 ### Dual-CM Score Fusion & Dual-CM Cascading
 
@@ -165,7 +164,11 @@ Simply use:
 
 Dataset:
 - ASVspoof 2019 LA + PA combined evaluation set
+- The corresponding trial protocol files (including target, nontarget, LA spoof, and PA spoof labels) are provided in:
 
+```
+protocols/protocol.txt
+```
 
 ---
 
@@ -173,5 +176,5 @@ Dataset:
 
 Notebook:
 ```
-notebooks/compute_AaDCF.ipynb
+notebooks/experiment.ipynb
 ```
