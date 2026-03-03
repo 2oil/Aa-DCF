@@ -97,7 +97,7 @@ C_miss * π_tar * P_miss(t)
 ├── protocol/
 │   └── protocol.txt
 ├── notebooks/
-│   └── experiment.ipynb
+│   └── experiments.ipynb
 ├── assets/
 │   └── overview.png
 └── README.md
@@ -176,5 +176,5 @@ protocols/protocol.txt
 
 Notebook:
 ```
-notebooks/experiment.ipynb
+notebooks/experiments.ipynb
 ```
