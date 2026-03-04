@@ -121,7 +121,6 @@ https://drive.google.com/drive/folders/1NIOs21SOxLSFuO5gvVN7twWDghh357fS
 Pretrained models:
 https://drive.google.com/drive/folders/1NIOs21SOxLSFuO5gvVN7twWDghh357fS
 
----
 
 ## 🔹 ASV Models
 
@@ -131,7 +130,6 @@ https://github.com/TaoRuijie/ECAPA-TDNN.git
 ### ResNet34
 https://github.com/eurecom-asp/sasv-joint-optimisation.git
 
----
 
 ## 🔹 SASV Baselines
 
@@ -139,7 +137,6 @@ https://github.com/eurecom-asp/sasv-joint-optimisation.git
 ### SKA-TDNN  
 https://github.com/sasv-challenge/SASV2_Baseline.git
 
----
 
 ## 🔹 Proposed SASV
 
